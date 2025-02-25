@@ -1,14 +1,14 @@
 /* Global styles */
 :root {
-    --background: #1e1e2e; 
+    --background: #1e1e2e;
     --background-light: #fdebf3;
     --button: #78c2ad;
     --text: #fdebf3;
-    --text-light: #1e1e2e; 
+    --text-light: #1e1e2e;
     --text-link: #78c2ad;
     --underline: #375a7f;
     --header: 'Pacifico', cursive;
-    --body: 'Josefin Sans', sans-serif; 
+    --body: 'Josefin Sans', sans-serif;
 }
 
 html {
@@ -50,7 +50,7 @@ p {
 }
 
 small, li {
-    font-family: var(--body); 
+    font-family: var(--body);
 }
 
 /* Navigation Bar */
@@ -298,11 +298,11 @@ html.light {
 }
 
 .light .card__title {
-    color: var(--text-light); 
+    color: var(--text-light);
 }
 
 .light .card__txt {
-    color: var(--text-light); 
+    color: var(--text-light);
 }
 
 .light .btn {
@@ -375,4 +375,3 @@ html.light {
         width: 350px;
     }
 }
-
